@@ -54,11 +54,11 @@ export const navLinks = [
           isIncluded: true,
         },
         {
-          label: "Basic Access to Services",
+          label: "Basic Access",
           isIncluded: true,
         },
         {
-          label: "Priority Customer Support",
+          label: "Customer Support",
           isIncluded: false,
         },
         {
@@ -83,7 +83,7 @@ export const navLinks = [
           isIncluded: true,
         },
         {
-          label: "Priority Customer Support",
+          label: "Customer Support",
           isIncluded: true,
         },
         {
@@ -108,7 +108,7 @@ export const navLinks = [
           isIncluded: true,
         },
         {
-          label: "Priority Customer Support",
+          label: "Customer Support",
           isIncluded: true,
         },
         {
